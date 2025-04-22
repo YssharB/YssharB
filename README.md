@@ -3,8 +3,8 @@
 🎯 En ce moment, je travaille sur mon **portfolio personnel** pour présenter mes projets et mes compétences.
 
 ✨ Je développe aussi :
-- 🎨 **"Imagine"** — un projet créatif et visuel (bientôt plus d’infos)
-- ⚡ **"Spark"** — un outil léger pour améliorer la productivité
+- 🎨 **"Imagine"** — un projet créatif et visuel IA-powered (bientôt plus d’infos)
+- ⚡ **"Spark"** — un outil permettant de chatter avec ses PDF pour booster sa productivité ! IA-powered aussi
 
 🚀 Passionné par le développement web, le design et la création d’expériences utiles et élégantes.
 
